@@ -1,3 +1,6 @@
+//이 코드는 리액트 강의 7번까지
+
+
 import logo from './logo.svg';
 import './App.css';
 import {useState} from 'react';
